@@ -302,17 +302,10 @@ section p {
 
 @media (max-width: 560px) {
 
-    section {
-
-    }
-
     section p {
         font-size: 1.2rem;
     }
-
-    section .btn_mobile {
-    }
-
+    
     section img {
         width: 100%;
     }
